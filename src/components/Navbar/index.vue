@@ -53,7 +53,7 @@
             <nav class="lg:hidden z-40 relative">
                 <div class="flex py-4 justify-between items-center px-4">
                     <div>
-                        <img loading="lazy" src="https://cdn.tuk.dev/assets/templates/foodies/foodies.png" alt="logo" class="w-24" />
+                        <img loading="lazy" src="@/assets/img/iFoody.png" alt="logo" class="w-24" />
                     </div>
                     <div class="visible flex items-center">
                         <ul id="list" class="hidden p-2 border-r bg-white absolute rounded top-0 left-0 right-0 shadow mt-12 md:mt-16">
