@@ -3,6 +3,7 @@ import { createRouter, createWebHistory } from "vue-router"
 import FoodiesHome from "./pages/home"
 import FoodiesMenu from "./pages/menu"
 import Contact from "./pages/contact"
+import AboutUs from "./pages/aboutUs"
 
 const routes = [
     {
@@ -14,6 +15,11 @@ const routes = [
         path: "/menu",
         name: "Menu",
         component: FoodiesMenu,
+    },
+    {
+        path: "/chi-siamo",
+        name: "AboutUs",
+        component: AboutUs,
     },
     {
         path: "/contatti",

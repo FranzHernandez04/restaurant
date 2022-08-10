@@ -30,7 +30,7 @@
                                         class="border-4 border-color-orange bg-color-orange w-10 absolute right-0" />
                                 </li>
                         </router-link>
-                        <a href="#">
+                        <a href="/chi-siamo">
                             <li class="text-2xl leading-8 mr-10 text-color-black flex flex-col items-end justify-end font-normal cursor-pointer text-hover">Chi siamo</li>
                         </a>
                         <router-link :to="{name: 'Contact'}">
@@ -68,7 +68,7 @@
                                 </router-link>
                             </li>
                             <li class="flex cursor-pointer text-hover text-gray-600 text-sm leading-3 tracking-normal py-2 hover:text-indigo-700 flex items-center focus:text-indigo-700 focus:outline-none">
-                                <a href="#">
+                                <a href="/chi-siamo">
                                     <span class="ml-2 font-bold">Chi siamo</span>
                                 </a>
                             </li>

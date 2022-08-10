@@ -2,7 +2,7 @@
     <div class="mx-auto container lg:mt-32 lg:px-52 px-4 mt-16">
         <div class="flex items-center justify-center">
             <hr class="w-2.5 h-16 bg-color-orange" />
-            <h1 class="text-3xl font-bold text-color-black pl-7">Contatti</h1>
+            <h1 class="text-3xl font-bold text-color-black pl-7">Chi Siamo</h1>
         </div>
         <div class="lg:mt-16 mt-8 lg:flex items-start">
             <div class="lg:w-1/2 lg:border-r border-black lg:pr-24 lg:pb-24">
@@ -11,11 +11,9 @@
             <div class="lg:w-1/2">
                 <div class="lg:pb-24 lg:pl-24 lg:pt-0 pt-8">
                     <div>
-                        <p class="text-2xl font-semibold">Modena, Mo</p>
-                        <p class="text-lg pt-5">Strada Morane, 500</p>
-                        <p class="text-lg pt-1">388 77 1900</p>
-                        <p class="text-lg pt-1">sample@gmail.com</p>
-                        <p class="text-lg pt-1">Italia</p>
+                        <!-- <p class="text-2xl font-semibold">Modena, Mo</p> -->
+                        <p class="text-lg pt-5">Lorem ipsum dolor sit amet consectetur adipisicing elit. Repellendus labore molestias dicta vel minima consequuntur, ipsam nostrum laboriosam hic optio neque dolorem! Omnis molestiae hic qui quisquam maiores magnam doloribus.</p>
+                        <p class="text-lg pt-5">Lorem ipsum dolor sit amet consectetur adipisicing elit. Veritatis tenetur a, aliquam quae sed velit! Iure, rem nesciunt nostrum inventore eveniet similique placeat perferendis neque quo reprehenderit quia ipsum vel.</p>
                     </div>
 
                     <!-- <div class="lg:pt-24 pt-8">

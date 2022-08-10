@@ -18,7 +18,7 @@
                         <p class="px-5 text-color-orange xl:hidden md:hidden sm:block lg:hidden hidden">----------------------------------------------------------------------------</p>
                         <p class="px-5 text-color-orange xl:hidden md:block sm:hidden lg:hidden hidden">-----------------------------------------------------------------------------------------</p>
                         <p class="px-5 text-color-orange xl:hidden md:hidden sm:hidden lg:block hidden">------------------------------------------------------------------------------------------------------------------------------------------</p>
-                        <p class="xl:text-2xl text-xl font-semibold">{{salads[idx].price}}$</p>
+                        <p class="xl:text-2xl text-xl font-semibold">{{salads[idx].price}}€</p>
                     </div>
                     <div>
                         <p class="xl:text-lg text-sm xl:pr-16 pt-4">Iceburg, Lettuce, Carrots, Turnips, Cucumbers, Soybeans, Marinated chicken, Fresh mint, Cilanto, Peanuts</p>
@@ -47,7 +47,7 @@
                         <p class="px-5 text-color-orange xl:hidden md:hidden sm:block lg:hidden hidden">------------------------------------------------------------------------</p>
                         <p class="px-5 text-color-orange xl:hidden md:block sm:hidden lg:hidden hidden">-----------------------------------------------------------------------------------------</p>
                         <p class="px-5 text-color-orange xl:hidden md:hidden sm:hidden lg:block hidden">------------------------------------------------------------------------------------------------------------------------------------------</p>
-                        <p class="xl:text-2xl text-xl font-semibold">{{toastedItems[idx].price}}$</p>
+                        <p class="xl:text-2xl text-xl font-semibold">{{toastedItems[idx].price}}€</p>
                     </div>
                     <div>
                         <p class="xl:text-lg text-sm xl:pr-16 pt-4">White bread, Pastrami bacon, Swiss cheese, Lettuce, Tomatoes, Mayonnaise</p>
@@ -76,7 +76,7 @@
                         <p class="px-5 text-color-orange xl:hidden md:hidden sm:block lg:hidden hidden">------------------------------------------------------------------------</p>
                         <p class="px-5 text-color-orange xl:hidden md:block sm:hidden lg:hidden hidden">-----------------------------------------------------------------------------------------</p>
                         <p class="px-5 text-color-orange xl:hidden md:hidden sm:hidden lg:block hidden">------------------------------------------------------------------------------------------------------------------------------------------</p>
-                        <p class="xl:text-2xl text-xl font-semibold">{{mains[idx].price}}$</p>
+                        <p class="xl:text-2xl text-xl font-semibold">{{mains[idx].price}}€</p>
                     </div>
                     <div>
                         <p class="xl:text-lg text-sm xl:pr-16 pt-4">Lettuce, Tomatoes, White sauce, Carrot, Onion, Corn, Potatoes, Cucumber, Cheddar cheese</p>
@@ -105,7 +105,7 @@
                         <p class="px-5 text-color-orange xl:hidden md:hidden sm:block lg:hidden hidden">------------------------------------------------------------------------</p>
                         <p class="px-5 text-color-orange xl:hidden md:block sm:hidden lg:hidden hidden">-----------------------------------------------------------------------------------------</p>
                         <p class="px-5 text-color-orange xl:hidden md:hidden sm:hidden lg:block hidden">------------------------------------------------------------------------------------------------------------------------------------------</p>
-                        <p class="xl:text-2xl text-xl font-semibold">{{corns[idx].price}}$</p>
+                        <p class="xl:text-2xl text-xl font-semibold">{{corns[idx].price}}€</p>
                     </div>
                     <div>
                         <p class="xl:text-lg text-sm xl:pr-16 pt-4">Crunchy puff pastry, Light hazelnut cream filling, Almond, Molten heart, Grilled hazelnuts</p>
@@ -134,7 +134,7 @@
                         <p class="px-5 text-color-orange xl:hidden md:hidden sm:block lg:hidden hidden">------------------------------------------------------------------------</p>
                         <p class="px-5 text-color-orange xl:hidden md:block sm:hidden lg:hidden hidden">-----------------------------------------------------------------------------------------</p>
                         <p class="px-5 text-color-orange xl:hidden md:hidden sm:hidden lg:block hidden">------------------------------------------------------------------------------------------------------------------------------------------</p>
-                        <p class="xl:text-2xl text-xl font-semibold">{{teas[idx].price}}$</p>
+                        <p class="xl:text-2xl text-xl font-semibold">{{teas[idx].price}}€</p>
                     </div>
                     <div>
                         <p class="xl:text-lg text-sm xl:pr-16 pt-4">Jasmine green tea, Subtil and Fragnant</p>
