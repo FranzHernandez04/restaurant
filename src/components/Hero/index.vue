@@ -18,7 +18,8 @@
                             Guarda Menu
                         </button>
                     </router-link>
-                    <a href="#book" class="xl:py-5 py-2 xl:px-16 px-6 border-color-orange 2xl:text-3xl lg:text-xl text-base font-semibold leading-loose text-color-orange focus:outline-none button-transparent border-2 border-color-orange b-r-10">Prenota un tavolo</a>
+                    <a href="#book-mobile" class="lg:hidden block xl:py-5 py-2 xl:px-16 px-6 border-color-orange 2xl:text-3xl lg:text-xl text-base font-semibold leading-loose text-color-orange focus:outline-none button-transparent border-2 border-color-orange b-r-10">Prenota un tavolo</a>
+                    <a href="#book" class="lg:block hidden xl:py-5 py-2 xl:px-16 px-6 border-color-orange 2xl:text-3xl lg:text-xl text-base font-semibold leading-loose text-color-orange focus:outline-none button-transparent border-2 border-color-orange b-r-10">Prenota un tavolo</a>
                 </div>
                 <div class="2xl:mt-24 mt-12 items-center 2xl:pl-16 xl:pl-16 lg:pl-12 md:pl-0 sm:pl-0 pl-16 md:flex hidden">
                     <a href="#" class="cursor-pointer">

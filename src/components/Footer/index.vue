@@ -39,7 +39,10 @@
                 <router-link to="/contatti">
                     <li class="lg:text-lg text-sm text-sm leading-5 lg:mr-10 mr-2 text-white flex flex-col items-end justify-end font-normal cursor-pointer text-hover">Contatti</li>
                 </router-link>
-                <a href="/#book">
+                <a href="/#book" class="lg:block hidden">
+                    <li class="lg:text-lg text-sm text-sm leading-5 text-white flex flex-col items-end justify-end font-normal cursor-pointer text-hover">Prenota</li>
+                </a>
+                <a href="/#book-mobile" class="lg:hidden block">
                     <li class="lg:text-lg text-sm text-sm leading-5 text-white flex flex-col items-end justify-end font-normal cursor-pointer text-hover">Prenota</li>
                 </a>
             </ul>

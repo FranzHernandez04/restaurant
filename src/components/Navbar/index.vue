@@ -78,7 +78,7 @@
                                 </router-link>
                             </li>
                             <li class="flex flex-col cursor-pointer text-hover text-gray-600 text-sm leading-3 tracking-normal pt-2 pb-4 flex justify-center">
-                                <a href="/#book">
+                                <a href="/#book-mobile">
                                     <span class="ml-2 font-bold">Prenota</span>
                                 </a>
                             </li>

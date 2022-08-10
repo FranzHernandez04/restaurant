@@ -1,5 +1,5 @@
 <template>
-    <div class="book-widht relative mx-auto container mt-28 xl:block hidden" id="book">
+    <div class="book-widht relative mx-auto container mt-28 lg:block hidden" id="book">
         <img loading="lazy" src="https://cdn.tuk.dev/assets/templates/foodies/book-bg.png" class="absolute z-0 object-center object-fit h-full w-full" />
         <img loading="lazy" src="https://cdn.tuk.dev/assets/templates/foodies/book1.png" class="absolute left-0 top-0 -mt-24 -ml-24" />
         <img loading="lazy" src="https://cdn.tuk.dev/assets/templates/foodies/book-2.png" class="absolute right-0 bottom-0 -mb-24 -mr-28" />
@@ -45,7 +45,7 @@
         </div>
     </div>
     <!-- mobile -->
-    <div class="xl:hidden block relative mx-auto container mt-44" id="book">
+    <div class="lg:hidden block relative mx-auto container mt-44" id="book-mobile">
         <img loading="lazy" src="https://cdn.tuk.dev/assets/templates/foodies/book-bg.png" class="absolute z-0 object-center object-cover h-full" />
         <div class="relative z-10 px-4 flex flex-col items-center justify-center">
             <div class="flex items-center justify-center pt-14">
