@@ -45,7 +45,7 @@
         </div>
     </div>
     <!-- mobile -->
-    <div class="xl:hidden block relative mx-auto container mt-44">
+    <div class="xl:hidden block relative mx-auto container mt-44" id="book">
         <img loading="lazy" src="https://cdn.tuk.dev/assets/templates/foodies/book-bg.png" class="absolute z-0 object-center object-cover h-full" />
         <div class="relative z-10 px-4 flex flex-col items-center justify-center">
             <div class="flex items-center justify-center pt-14">
