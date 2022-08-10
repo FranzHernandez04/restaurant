@@ -37,7 +37,7 @@
                 </div>
             </div>
             <div class="py-14 px-7 border border-color-black my-4">
-                <p class="text-2xl font-bold text-black text-center">About Us</p>
+                <p class="text-2xl font-bold text-black text-center">Chi siamo</p>
                 <p class="text-base leading-7 text-justify text-color-gray pt-4">Lorem ipsum dolor sit, amet consectetur adipisicing elit. Ipsum ab atque accusamus dolorum deleniti quaerat rerum voluptatum saepe iure perspiciatis placeat impedit, minus, non repudiandae qui dolores magnam? Sequi, numquam.</p>
             </div>
 
