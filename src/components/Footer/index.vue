@@ -1,7 +1,7 @@
 <template>
     <div class="bg-color-black py-16 flex flex-col items-center justify-center f-f-l">
         <div class="w-44">
-            <img loading="lazy" src="https://cdn.tuk.dev/assets/templates/foodies/foodies.png" />
+            <img loading="lazy" src="@/assets/img/iFoody.png" />
         </div>
         <div class="flex items-center py-12">
             <a class="cursor-pointer" href="#"

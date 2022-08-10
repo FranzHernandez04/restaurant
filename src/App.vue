@@ -10,7 +10,7 @@ export default {
             immediate: true,
             handler() {
                 console.log("prova")
-                document.title = "iFoodie | Il sito per il tuo ristorante"
+                document.title = "iFoody | Il sito per il tuo ristorante"
             },
         },
     },

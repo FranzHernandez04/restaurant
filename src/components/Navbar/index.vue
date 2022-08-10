@@ -9,7 +9,7 @@
             <nav class="mx-auto container relative z-10">
                 <div class="lg:flex hidden items-center justify-between py-12 xl:px-0 px-4">
                     <router-link to="/">
-                        <img loading="lazy" src="https://cdn.tuk.dev/assets/templates/foodies/foodies.png" class="w-44" alt="logo" />
+                        <img loading="lazy" src="@/assets/img/iFoody.png" class="w-44" alt="logo" />
                     </router-link>
                     <ul class="flex leading-loose">
                         <router-link to="/">
