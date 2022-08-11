@@ -30,7 +30,7 @@
                                         class="border-4 border-color-orange bg-color-orange w-10 absolute right-0" />
                                 </li>
                         </router-link>
-                        <a href="/chi-siamo">
+                        <a href="/chisiamo">
                             <li class="text-2xl leading-8 mr-10 text-color-black flex flex-col items-end justify-end font-normal cursor-pointer text-hover">Chi siamo</li>
                         </a>
                         <router-link :to="{name: 'Contact'}">
@@ -52,9 +52,9 @@
             <!-- Mobile -->
             <nav class="lg:hidden z-40 relative">
                 <div class="flex py-4 justify-between items-center px-4">
-                    <div>
+                    <router-link to="/">
                         <img loading="lazy" src="@/assets/img/iFoody.png" alt="logo" class="w-24" />
-                    </div>
+                    </router-link>
                     <div class="visible flex items-center">
                         <ul id="list" class="hidden p-2 border-r bg-white absolute rounded top-0 left-0 right-0 shadow mt-12 md:mt-16">
                             <li class="flex cursor-pointer text-hover text-gray-600 text-sm leading-3 tracking-normal mt-2 py-2">
@@ -68,7 +68,7 @@
                                 </router-link>
                             </li>
                             <li class="flex cursor-pointer text-hover text-gray-600 text-sm leading-3 tracking-normal py-2 hover:text-indigo-700 flex items-center focus:text-indigo-700 focus:outline-none">
-                                <a href="/chi-siamo">
+                                <a href="/chisiamo">
                                     <span class="ml-2 font-bold">Chi siamo</span>
                                 </a>
                             </li>

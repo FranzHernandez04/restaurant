@@ -25,7 +25,7 @@ export default {
     mounted() {
         window.setInterval(() => {
             this.openModal()
-        }, 10000)
+        }, 20000)
     },
     methods: {
         openModal() {

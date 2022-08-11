@@ -17,7 +17,7 @@ const routes = [
         component: FoodiesMenu,
     },
     {
-        path: "/chi-siamo",
+        path: "/chisiamo",
         name: "AboutUs",
         component: AboutUs,
     },

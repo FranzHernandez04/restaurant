@@ -26,7 +26,7 @@
     </div>
 
     <div class="flex items-center justify-center mt-12">
-        <router-link to="/FoodiesMenu">
+        <router-link to="/menu">
             <button class="py-2.5 lg:px-11 px-6 lg:text-3xl text-base font-semibold leading-loose text-color-orange focus:outline-none button-transparent border-2 border-color-orange b-r-10 lg:mr-10">Scopri Menu</button>
         </router-link>
     </div>
