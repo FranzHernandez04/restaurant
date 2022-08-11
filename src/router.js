@@ -1,4 +1,4 @@
-import { createRouter, createWebHashHistory } from "vue-router"
+import { createRouter, createWebHistory } from "vue-router"
 
 import FoodiesHome from "./pages/home"
 import FoodiesMenu from "./pages/menu"
@@ -17,7 +17,7 @@ const routes = [
         component: FoodiesMenu,
     },
     {
-        path: "/chi",
+        path: "/chi-siamo",
         name: "AboutUs",
         component: AboutUs,
     },
@@ -29,7 +29,7 @@ const routes = [
 ];
 
 const router = createRouter({
-    history: createWebHashHistory(),
+    history: createWebHistory(),
     routes,
 });
 export default router;

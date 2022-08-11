@@ -33,9 +33,9 @@
                 <router-link to="/menu">
                     <li class="lg:text-lg text-sm text-sm leading-5 lg:mr-10 mr-2 text-white relative font-normal cursor-pointer text-hover">Menu</li>
                 </router-link>
-                <a href="/chi">
+                <router-link to="/chi-siamo">
                     <li class="lg:text-lg text-sm text-sm leading-5 lg:mr-10 mr-2 text-white flex flex-col items-end justify-end font-normal cursor-pointer text-hover">Chi siamo</li>
-                </a>
+                </router-link>
                 <router-link to="/contatti">
                     <li class="lg:text-lg text-sm text-sm leading-5 lg:mr-10 mr-2 text-white flex flex-col items-end justify-end font-normal cursor-pointer text-hover">Contatti</li>
                 </router-link>
